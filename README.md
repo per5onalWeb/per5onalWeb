@@ -60,7 +60,7 @@ A **Per5onal Web** reúne estratégia, tecnologia e execução em uma solução 
 
 > **Paz de espírito entregue todos os dias.**
 
-🌐 [Conheça a Per5onal Web](https://www.per5onalweb.com)
+🌐 [Conheça a Per5onal Web](https://per5onalweb.com/gestao-digital/)
 
 ---
 
