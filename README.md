@@ -2,7 +2,7 @@
 
 # José Celso | Per5onal Web
 
-### Estratégia digital, inteligência artificial, automação e infraestrutura web
+### IA • Automação • Desenvolvimento Full Stack • SaaS • Infraestrutura Digital
 
 [![Website](https://img.shields.io/badge/Website-per5onalweb.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.per5onalweb.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@per5onalweb-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/per5onalweb/)
@@ -11,24 +11,51 @@
 
 ## Sobre mim
 
-Sou **José Celso**, criador do conceito **Per5onal Web** e profissional com mais de 30 anos de experiência em internet, tecnologia, marketing e infraestrutura digital.
+Sou **José Celso**, criador do conceito **Per5onal Web** e profissional com mais de 30 anos de experiência em internet, tecnologia, desenvolvimento web, marketing e infraestrutura digital.
 
-Atuo na criação e integração de soluções digitais personalizadas, conectando estratégia, presença online, automação, inteligência artificial, dados e infraestrutura.
+Atuo como **estrategista digital e desenvolvedor Full Stack**, criando e integrando soluções que conectam **software, SaaS, inteligência artificial, automação, dados, APIs, infraestrutura e negócios**.
 
-Meu foco é transformar necessidades de negócio em soluções digitais práticas, organizadas, seguras e sustentáveis.
+Minha experiência combina visão estratégica, arquitetura de soluções e execução técnica, permitindo transformar necessidades de negócio em sistemas digitais práticos, escaláveis, seguros e sustentáveis.
+
+Meu foco atual está no desenvolvimento de **aplicações SaaS, automações inteligentes, agentes de IA e ecossistemas digitais integrados**.
 
 ## Áreas de atuação
 
-- Inteligência artificial aplicada a negócios
-- Automação de processos e agentes de IA
-- WordPress, Elementor e WooCommerce
+- Inteligência Artificial aplicada a negócios
+- Agentes e sistemas baseados em IA
+- Desenvolvimento Full Stack
+- Desenvolvimento de aplicações SaaS
+- Arquitetura de sistemas e produtos digitais
+- Automação de processos
 - n8n, APIs, webhooks e integrações
-- Supabase, PostgreSQL e organização de dados
-- VPS, WHM, cPanel, DNS, SSL e Cloudflare
+- PostgreSQL, Supabase e modelagem de dados
+- WordPress, Elementor e WooCommerce
+- VPS, Linux, WHM, cPanel e Docker
+- DNS, SSL, CDN, WAF e Cloudflare
 - Google Tag Manager, GA4 e mensuração
 - Google Ads, Meta Ads, SEO e performance
-- CRM, WhatsApp e jornadas de atendimento
+- CRM, WhatsApp e jornadas automatizadas
 - Arquitetura e governança de projetos digitais
+- Infraestrutura e operações digitais
+
+## Desenvolvimento e linguagens
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PL%2FpgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Dockerfile-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Stack presente nos projetos
+
+- **TypeScript** — aplicações, serviços, APIs e desenvolvimento Full Stack
+- **PL/pgSQL** — funções, procedures, regras e operações no PostgreSQL
+- **JavaScript** — aplicações web, integrações e automações
+- **HTML5 / CSS3** — interfaces, sites e aplicações responsivas
+- **Shell / Bash** — infraestrutura, servidores, deploy e automação
+- **Dockerfile** — conteinerização e infraestrutura de aplicações
 
 ## Tecnologias e plataformas
 
@@ -41,24 +68,76 @@ Meu foco é transformar necessidades de negócio em soluções digitais prática
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-## Projetos e soluções
+## O que desenvolvo
 
-Atualmente desenvolvo soluções relacionadas a:
+Atualmente desenvolvo e estruturo soluções relacionadas a:
 
-- automação de atendimento e operações;
+- aplicações **SaaS**;
+- sistemas web Full Stack;
 - agentes de inteligência artificial;
-- bases de conhecimento conectadas ao WhatsApp;
-- integração entre sites, CRM, APIs e bancos de dados;
-- infraestrutura digital para empresas e profissionais;
+- automação de atendimento e operações;
+- bases de conhecimento conectadas a IA e WhatsApp;
+- APIs e integrações entre plataformas;
+- CRM e automação comercial;
+- bancos de dados PostgreSQL e Supabase;
+- infraestrutura cloud e aplicações conteinerizadas;
+- sites, portais e e-commerce;
 - rastreamento, análise e melhoria de conversão.
+
+## Engenharia e arquitetura
+
+Minha atuação não se limita à implementação de interfaces.
+
+Trabalho também com:
+
+- arquitetura de aplicações;
+- modelagem e isolamento de dados;
+- autenticação e controle de acesso;
+- APIs e integrações;
+- automações;
+- bancos de dados;
+- infraestrutura Linux;
+- containers;
+- ambientes de desenvolvimento, staging e produção;
+- segurança e Cloudflare;
+- deploy e operação de aplicações;
+- análise de performance;
+- escalabilidade;
+- monitoramento e manutenção.
+
+## Inteligência Artificial e Automação
+
+Utilizo inteligência artificial como componente integrado aos processos de negócio, incluindo:
+
+- agentes de IA;
+- automação de atendimento;
+- análise e processamento de dados;
+- geração e organização de conteúdo;
+- integração entre IA, APIs e bancos de dados;
+- workflows inteligentes com n8n;
+- sistemas conectados ao WhatsApp;
+- automação de processos comerciais e operacionais.
+
+## Projetos
+
+Meu trabalho envolve a criação de projetos que unem:
+
+**Negócio → Estratégia → Software → IA → Automação → Dados → Infraestrutura**
+
+com foco em transformar operações manuais ou fragmentadas em sistemas digitais organizados e escaláveis.
 
 ## Per5onal Web
 
-A **Per5onal Web** reúne estratégia, tecnologia e execução em uma solução personalizada para cada cliente.
+A **Per5onal Web** reúne estratégia, desenvolvimento, inteligência artificial, automação e infraestrutura em soluções personalizadas para cada cliente.
 
-> **Paz de espírito entregue todos os dias.**
+O conceito parte de uma premissa simples:
+
+> **Tecnologia deve trabalhar para o negócio — e não o contrário.**
+
+### Paz de espírito entregue todos os dias.
 
 🌐 [Conheça a Per5onal Web](https://per5onalweb.com/gestao-digital/)
 
@@ -66,7 +145,11 @@ A **Per5onal Web** reúne estratégia, tecnologia e execução em uma solução 
 
 <div align="center">
 
-**José Celso — Criador do conceito Per5onal Web**
+### José Celso
+
+**Criador do conceito Per5onal Web**
+
+Estratégia Digital • IA • Automação • Full Stack • SaaS • Infraestrutura
 
 São Paulo, Brasil
 
